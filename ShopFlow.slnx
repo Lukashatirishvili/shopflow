@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ShopFlow.Api/ShopFlow.Api.csproj" />
+    <Project Path="src/ShopFlow.Application/ShopFlow.Application.csproj" />
+    <Project Path="src/ShopFlow.Domain/ShopFlow.Domain.csproj" />
+    <Project Path="src/ShopFlow.Infrastructure/ShopFlow.Infrastructure.csproj" />
+  </Folder>
+</Solution>
