@@ -5,4 +5,7 @@
     <Project Path="src/ShopFlow.Domain/ShopFlow.Domain.csproj" />
     <Project Path="src/ShopFlow.Infrastructure/ShopFlow.Infrastructure.csproj" />
   </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ShopFlow.Domain.Tests/ShopFlow.Domain.Tests.csproj" />
+  </Folder>
 </Solution>
